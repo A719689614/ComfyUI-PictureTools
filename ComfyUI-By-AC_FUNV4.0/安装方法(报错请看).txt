@@ -1,0 +1,8 @@
+依次安装一下库
+pip install torch
+pip install numpy
+pip install tensorflow
+pip install PIL
+pip install os
+
+点击windows的开始菜单，输入cmd打开命令符，复制以上链接安装
