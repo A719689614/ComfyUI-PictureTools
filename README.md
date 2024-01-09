@@ -1,5 +1,12 @@
 # ComfyUI-PictureTools
 Comfyui一个类似PS的图像处理工具
+# 更新日志2024/1/9
+多了一些关于图像转base64编码识别的功能
+
+更新说明：下载V4 UpDate文件解压到AC_FUNV4.0文件夹直接覆盖即可！
+![visul image-mathod](https://github.com/A719689614/ComfyUI-PictureTools/assets/142242136/45104a3f-601e-4687-b43d-24c533f8fbe7)
+
+
 # 更新功能
 把我新上传的__init__.py和AC_FUN_PATH,下载下来放到文件里即可！
 
