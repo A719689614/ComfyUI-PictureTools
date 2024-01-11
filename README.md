@@ -1,5 +1,9 @@
 # ComfyUI-PictureTools
 Comfyui一个类似PS的图像处理工具
+# 更新日志2024/1/11
+更新一个模块、移植一个模块(图片溶解、图片背景移除)
+![01](https://github.com/A719689614/ComfyUI-PictureTools/assets/142242136/0d2375cb-a02a-4122-b463-8ac7f1315182)
+
 # 更新日志2024/1/9
 多了一些关于图像转base64编码识别的功能
 
