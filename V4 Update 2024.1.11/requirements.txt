@@ -1,0 +1,17 @@
+torch
+numpy
+tensorflow
+PIL
+os
+platformdirs
+pooch
+pymatting
+rembg
+jsonschema
+referencing
+rpds
+subprocess
+typing
+sys
+numba
+urllib
